@@ -1,5 +1,5 @@
 {
-  "name": "typescript-nodejs",
+  "name": "typescript-nodejs-vanilla-httpserver",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
